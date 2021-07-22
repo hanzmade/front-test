@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Monserrat-Black';
+    src: url('../fonts/montserrat/Montserrat-Black.otf');
+}
+@font-face {
+    font-family: 'Monserrat-Bold';
+    src: url('../fonts/montserrat/Montserrat-Bold.otf');
+}
+@font-face {
+    font-family: 'Monserrat-Hairline';
+    src: url('../fonts/montserrat/Montserrat-Hairline.otf');
+}
+@font-face {
+    font-family: 'Monserrat-Light';
+    src: url('../fonts/montserrat/Montserrat-Light.otf');
+}
+@font-face {
+    font-family: 'Monserrat-Regular';
+    src: url('../fonts/montserrat/Montserrat-Regular.otf');
+}
+
